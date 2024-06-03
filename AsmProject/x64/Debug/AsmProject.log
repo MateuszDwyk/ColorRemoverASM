@@ -1,0 +1,2 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(503,5): warning MSB8004: Katalog Output nie kończy się ukośnikiem. To wystąpienie kompilacji doda ukośnik, ponieważ jest on niezbędny, aby możliwa była poprawna ocena katalogu Output.
+  AsmProject.vcxproj -> C:\Users\mateu\OneDrive\Pulpit\Studia\JA\ColorRemover\ColorRemover\ColorRemover\bin\Debug\net6.0-windows\AsmProject.dll
